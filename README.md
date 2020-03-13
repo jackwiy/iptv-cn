@@ -7,3 +7,5 @@
 3.播放器推荐：
 [IINA（Mac）](https://iina.io/)、[VLC（Linux）](https://vlc.onl/)、[Potplayer（Windows）](https://potplayer.daum.net/)
 
+4.频道来源：[iptv-org](https://github.com/iptv-org/iptv)
+
